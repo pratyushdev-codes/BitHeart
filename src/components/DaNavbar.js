@@ -27,7 +27,7 @@ const DaNavbar = () => {
             </NavbarContent>
             <NavbarContent justify="end">
                 <NavbarItem>    
-                    <Button as={Link} color="primary" href="#" variant="flat">
+                    <Button as={Link} color="primary" href="/#foota" variant="flat">
                         Contact Us
                     </Button>
                 </NavbarItem>
