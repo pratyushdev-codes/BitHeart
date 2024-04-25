@@ -1,12 +1,12 @@
 import './App.css';
-import DaNavbar from './components/DaNavbar';
+// import DaNavbar from './components/DaNavbar';
 import Hero from './components/Hero';
 import Content from './components/Content';
 import Working from './components/Working';
 import Nav from './components/Nav';
 import Watch from './components/Watch';
 import Phone from './components/Phone';
-import Stores from './components/Stores';
+// import Stores from './components/Stores';
 import Footer from './components/Footer';
 
 function App() {

@@ -1,5 +1,5 @@
 import React from "react";
-import {Card, CardHeader, CardBody, Image} from "@nextui-org/react";
+import {Card, CardHeader, CardBody} from "@nextui-org/react";
 import Lottie from 'react-lottie';
 import HeartRate from '../assets/HeartRate.json';
 import Ambulance from '../assets/Ambulance.json';
